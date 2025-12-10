@@ -43,7 +43,7 @@ Key features:
 - **[Craig David Machine](https://github.com/humansinstitute/craigdavid-cvm)** - Composable AI service that summarizes your Nostr week into rap songs
 - **[Retired in a Field](https://github.com/humansinstitute/retired-in-a-field-cvm)** - Full-stack game demonstrating multi-jurisdictional deployments
 - **[Hypernote Elements](https://github.com/futurepaul/hypernote-elements)** - Interactive micro-apps that live within Nostr notes
-- **[Paygress CVM Integration](https://github.com/DhananjayPurohit/paygress)** - Sovereign machine provisioning interface using CVM
+- **[Nanalytics](https://github.com/humansinstitute/nanalytics)** - Website analytics like your Nanna used to bake. Over Nostr, privacy preserving, simple analytics, easy to host
 
 ## Developer Tools
 
