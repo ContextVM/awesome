@@ -44,6 +44,8 @@ Key features:
 - **[Retired in a Field](https://github.com/humansinstitute/retired-in-a-field-cvm)** - Full-stack game demonstrating multi-jurisdictional deployments
 - **[Hypernote Elements](https://github.com/futurepaul/hypernote-elements)** - Interactive micro-apps that live within Nostr notes
 - **[Nanalytics](https://github.com/humansinstitute/nanalytics)** - Website analytics like your Nanna used to bake. Over Nostr, privacy preserving, simple analytics, easy to host
+- **[Earthly Geo Server](https://github.com/zeSchlausKwab/earthly/tree/master/contextvm)** - Server focused on geocoding and reverse geocoding via OpenStreetMap Nominatim. Features search_location for forward geocoding and reverse_lookup for coordinate-based place metadata
+- **[Wavefunc Music Metadata Server](https://github.com/zeSchlausKwab/wavefunc/tree/main/contextvm)** - Server for radio stream metadata extraction and MusicBrainz lookups. Features extract_stream_metadata for Icecast/Shoutcast streams and musicbrainz_search for detailed track information
 
 ## Developer Tools
 
