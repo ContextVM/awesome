@@ -46,6 +46,8 @@ Key features:
 - **[Nanalytics](https://github.com/humansinstitute/nanalytics)** - Website analytics like your Nanna used to bake. Over Nostr, privacy preserving, simple analytics, easy to host
 - **[Earthly Geo Server](https://github.com/zeSchlausKwab/earthly/tree/master/contextvm)** - Server focused on geocoding and reverse geocoding via OpenStreetMap Nominatim. Features search_location for forward geocoding and reverse_lookup for coordinate-based place metadata
 - **[Wavefunc Music Metadata Server](https://github.com/zeSchlausKwab/wavefunc/tree/main/contextvm)** - Server for radio stream metadata extraction and MusicBrainz lookups. Features extract_stream_metadata for Icecast/Shoutcast streams and musicbrainz_search for detailed track information
+- **[Wotrlay](https://github.com/contextvm/wotrlay)** - Web-of-Trust (WoT) based Nostr relay with reputation-driven rate limiting, using Relatr as external rank provider
+  - Public instance: `wss://wotr.relatr.xyz`
 
 ## Developer Tools
 
