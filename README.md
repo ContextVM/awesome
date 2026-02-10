@@ -13,6 +13,7 @@ A curated list of awesome resources, projects, tools, and documentation for the 
 - [Documentation & Specifications](#documentation--specifications)
 - [Community & Governance](#community--governance)
 - [Articles & Blog Posts](#articles--blog-posts)
+- [Public CVM Relays](#public-cvm-relays)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -69,6 +70,14 @@ Key features:
 ## Articles & Blog Posts
 
 - **[ContextVM Blog](https://contextvm.org/blog/)** - ContextVM blog with posts on the latest developments
+
+## Public CVM Relays
+
+These relays are run by the ContextVM team or community specifically for CVM services. Any public Nostr relay can be used with CVM, but these are run specifically for CVM:
+
+- `wss://relay.contextvm.org` - Primary ContextVM relay
+- `wss://relay2.contextvm.org` - Secondary ContextVM relay
+- `wss://cvm.otherstuff.ai` - Community relay for CVM services
 
 ## Contributing
 
