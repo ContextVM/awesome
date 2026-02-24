@@ -52,6 +52,7 @@ Key features:
 
 ## Developer Tools
 
+- **[CVMI](https://github.com/contextvm/cvmi)** - The ContextVM developer's army knife. A unified CLI for skills management, server interaction, and dev tools. Install skills for client/server development, protocol fundamentals, troubleshooting, SDK internals, and production deployment with `npx cvmi add`
 - **[CtxCn](https://github.com/ContextVM/ctxcn)** - Generate type-safe TypeScript clients for CVM servers with simple commands
 - **[MCP SDKs](https://modelcontextprotocol.io/docs/sdk)** - Official SDKs for building MCP servers in 10+ languages
 - **[CVM Rust MCP Example](https://github.com/futurepaul/cvm-rust-mcp)** - Example implementation of CVM server using Rust MCP SDK
